@@ -29,8 +29,11 @@ main.spec — PyInstaller spec (for building executables)
 icon.jpg — icon image
 
 License
+
 MIT
 
 contact
+
 Amirhossein Sarabadani — amirhosseinsarabadani@gmail.com
+
 Project Link: https://github.com/emirsara-dev/My-python-game
