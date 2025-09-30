@@ -28,6 +28,10 @@ main.spec — PyInstaller spec (for building executables)
 
 icon.jpg — icon image
 
+
+
+
+
 License
 
 MIT
