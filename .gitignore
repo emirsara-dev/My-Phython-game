@@ -1,6 +1,5 @@
  
 # Ignore Python cache files
-__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -18,3 +17,8 @@ env/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+dist/
+_pycache_/
+build/
+__pycache__/
