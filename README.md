@@ -13,7 +13,8 @@ The one who picks the last stone loses :)
 ```bash
 python main.py
 ```
-Notes
+Notes:
+
 main.py is the entry point.
 
 stones.py contains supporting game logic.
